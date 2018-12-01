@@ -2,3 +2,19 @@
     float: right;
     border: 5px solid red;
 }
+
+.completed-task {
+    background: #546e7a;
+    color: white !important;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+
+.taskbox {
+    color: white 
+
+}
+
+.input-field input {
+    color: white
+}
